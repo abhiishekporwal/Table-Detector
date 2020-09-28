@@ -15,9 +15,9 @@ Checkout our demo notebook for loading checkpoints
 # Example:
 Successfully detected table(s) in an image.  Table can be of both type bordered and borderless.
 ### Input Image:
-<img src ='https://raw.githubusercontent.com/abhiishekporwal/TableDetector-CV-/master/Images_samples/t2.jpg'>
+<img src ='https://github.com/abhiishekporwal/TableDetector-CV-/blob/master/Images_samples/t6.jpg?raw=true'>
 
 ### Output Image:
-<img src ='https://raw.githubusercontent.com/abhiishekporwal/TableDetector-CV-/master/output_img/t2_prediction.jpg'>
+<img src ='https://raw.githubusercontent.com/abhiishekporwal/TableDetector-CV-/master/output_img/t6_prediction.jpg'>
 
 source: https://github.com/DevashishPrasad/CascadeTabNet
